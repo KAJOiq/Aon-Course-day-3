@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "\\\\MYCLOUD-FT4XU8\\abdulrahman\\Important files\\Aon Course 2024\\AonTraining\\Day3\\Aon-Freelance\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70570757-156E-49C2-8E36-D81A398E78D2}|Aon-Freelance\\Aon-Freelance.csproj|\\\\mycloud-ft4xu8\\abdulrahman\\important files\\aon course 2024\\aontraining\\day3\\aon-freelance\\aon-freelance\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70570757-156E-49C2-8E36-D81A398E78D2}|Aon-Freelance\\Aon-Freelance.csproj|\\\\mycloud-ft4xu8\\abdulrahman\\important files\\aon course 2024\\aontraining\\day3\\aon-freelance\\aon-freelance\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,12 +21,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "projectsController.cs",
+              "DocumentMoniker": "\\\\MYCLOUD-FT4XU8\\abdulrahman\\Important files\\Aon Course 2024\\AonTraining\\Day3\\Aon-Freelance\\Aon-Freelance\\Controllers\\projectsController.cs",
+              "RelativeDocumentMoniker": "Aon-Freelance\\Controllers\\projectsController.cs",
+              "ToolTip": "\\\\MYCLOUD-FT4XU8\\abdulrahman\\Important files\\Aon Course 2024\\AonTraining\\Day3\\Aon-Freelance\\Aon-Freelance\\Controllers\\projectsController.cs",
+              "RelativeToolTip": "Aon-Freelance\\Controllers\\projectsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:58:40.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Project.cs",
               "DocumentMoniker": "\\\\MYCLOUD-FT4XU8\\abdulrahman\\Important files\\Aon Course 2024\\AonTraining\\Day3\\Aon-Freelance\\Aon-Freelance\\Models\\Project.cs",
               "RelativeDocumentMoniker": "Aon-Freelance\\Models\\Project.cs",
               "ToolTip": "\\\\MYCLOUD-FT4XU8\\abdulrahman\\Important files\\Aon Course 2024\\AonTraining\\Day3\\Aon-Freelance\\Aon-Freelance\\Models\\Project.cs",
               "RelativeToolTip": "Aon-Freelance\\Models\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T10:31:27.448Z",
               "EditorCaption": ""

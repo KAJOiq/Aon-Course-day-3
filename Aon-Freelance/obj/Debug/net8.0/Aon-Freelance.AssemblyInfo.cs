@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aon-Freelance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9f9129aa03ef5222660f4e6f523b62e276f0587")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aon-Freelance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aon-Freelance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
